@@ -44,11 +44,10 @@ strong{color:var(--text);font-weight:600}
 ul,ol{margin:.5rem 0 1rem 1.5rem;color:var(--text-dim)}
 li{margin:.4rem 0;line-height:1.6}
 li strong{color:var(--text)}
-table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem}
-th,td{padding:.65rem .85rem;border:1px solid var(--border);text-align:left}
-th{background:var(--surface-2);color:var(--amber);font-weight:500;font-size:.85rem;text-transform:uppercase;letter-spacing:.05em}
-td{color:var(--text-dim)}
-td:first-child{color:var(--text);font-family:'Courier New',monospace;font-size:.85rem}
+table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;background:#fff}
+th,td{padding:.65rem .85rem;border:1px solid #ccc;text-align:left;background:#f5f5f5;color:#000}
+th{background:#e9b44c;color:#000;font-weight:600;font-size:.85rem;text-transform:uppercase;letter-spacing:.05em}
+td:first-child{font-family:'Courier New',monospace;font-size:.85rem;font-weight:600}
 a{color:var(--amber);text-decoration:none;border-bottom:1px dotted var(--amber);transition:all .2s}
 a:hover{color:var(--crimson-bright);border-bottom-color:var(--crimson-bright)}
 code{background:var(--surface-2);padding:.15rem .4rem;border-radius:3px;font-family:'Courier New',monospace;font-size:.85rem;color:var(--amber);border:1px solid var(--border)}
@@ -175,9 +174,8 @@ code{background:var(--surface-2);padding:.15rem .4rem;border-radius:3px;font-fam
   <h3>12. Contact</h3>
   <p>Pour toute question concernant cette politique de confidentialité :</p>
   <ul>
-    <li><strong>Email</strong> : [VOTRE EMAIL]</li>
-    <li><strong>Site web</strong> : [VOTRE SITE]</li>
-  </ul>
+    <li><strong>Email</strong> : khaidar57@gmail.com </li>
+     </ul>
 </section>
 
 <!-- ============ ENGLISH ============ -->
@@ -274,8 +272,7 @@ code{background:var(--surface-2);padding:.15rem .4rem;border-radius:3px;font-fam
   <h3>12. Contact</h3>
   <p>For any questions regarding this privacy policy:</p>
   <ul>
-    <li><strong>Email</strong>: [YOUR EMAIL]</li>
-    <li><strong>Website</strong>: [YOUR WEBSITE]</li>
+    <li><strong>Email</strong>: khaidar57@gmail.com </li>
   </ul>
 </section>
 
@@ -373,8 +370,7 @@ code{background:var(--surface-2);padding:.15rem .4rem;border-radius:3px;font-fam
   <h3>12. Contacto</h3>
   <p>Para cualquier pregunta sobre esta política de privacidad:</p>
   <ul>
-    <li><strong>Correo electrónico</strong>: [SU CORREO]</li>
-    <li><strong>Sitio web</strong>: [SU SITIO WEB]</li>
+    <li><strong>Correo electrónico</strong>: khaidar57@gmail.com </li>
   </ul>
 </section>
 
